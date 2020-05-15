@@ -42,7 +42,7 @@ public class PdfGeneratorController {
 
     @Autowired
     ServletContext context;
-    private static final String DIR = "/home/pradeep/Downloads/DoubtNut/PDF_Reports";
+    private static final String DIR = "/home/pradeep/Downloads/doubtnuttest/PDF_Reports";
     private static final String TITLE = "DoubtNut_QuestionReport_";
     public static final String PDF_EXTENSION = ".pdf";
 
